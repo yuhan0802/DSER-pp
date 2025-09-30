@@ -1,6 +1,5 @@
 # Video Frame Interpolation via Asymmetric Refinement with the Event-based Reference
 ![](imgs/real.png)
-![](imgs/sys.png)
 This is the codebase for our paper DSER++. We provide pretrained weights and code.
 
 ## Quick Start
