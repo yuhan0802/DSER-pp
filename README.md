@@ -1,4 +1,4 @@
-<img width="1642" height="30" alt="image" src="https://github.com/user-attachments/assets/cf5799a1-7e72-4b99-80d1-9766ce23fda7" /># Video Frame Interpolation via Asymmetric Refinement with the Event-based Reference
+# Video Frame Interpolation via Asymmetric Refinement with the Event-based Reference
 
 [![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/your_paper_link)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://your_project_page)
