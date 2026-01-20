@@ -46,6 +46,8 @@ You can download our pretrained checkpoints from Google Drive:
 
 Please place the downloaded weights in the `checkpoints/` directory.
 
+## 🚀 Usage
+
 ### Inference
 
 Please refer to interpolation.py
