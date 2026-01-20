@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 <p align="center">
-  <img src="imgs/real.png" width="800">
+  <img src="scripts/real.png" width="800">
 </p>
 
 > **Abstract:** 
