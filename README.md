@@ -1,11 +1,10 @@
 # Video Frame Interpolation via Asymmetric Refinement with the Event-based Reference
 
-[![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/your_paper_link)
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://your_project_page)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 <p align="center">
   <img src="imgs/real.png" width="800">
+  <img src="imgs/sys.png" width="800">
 </p>
 
 > **Abstract:** 
