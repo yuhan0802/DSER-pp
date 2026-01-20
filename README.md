@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="imgs/real.png" width="800">
-  <img src="imgs/sys.png" width="800">
 </p>
 
 > **Abstract:** 
